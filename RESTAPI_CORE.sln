@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPI_CORE.API", "RESTAPI_CORE.API\RESTAPI_CORE.API.csproj", "{43B2EFD8-6303-41FE-8FDE-B374B6744939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPI_CORE.Common", "RESTAPI_CORE.Common\RESTAPI_CORE.Common.csproj", "{14C4FB07-0AE2-4AFE-A8A9-A462865A5BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPI_CORE.Entity", "RESTAPI_CORE.Entity\RESTAPI_CORE.Entity.csproj", "{B277B96C-5C3B-46C3-91AA-E2C0C1527641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPI_CORE.DAL", "RESTAPI_CORE.DAL\RESTAPI_CORE.DAL.csproj", "{EE786718-39D7-40F7-AA5A-141C23B4CA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPI_CORE.APP", "RESTAPI_CORE.APP\RESTAPI_CORE.APP.csproj", "{8C040922-43DE-49CD-8F66-86DE35249636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPI_CORE.IOC", "RESTAPI_CORE.IOC\RESTAPI_CORE.IOC.csproj", "{7D91A828-B9EE-4ADA-913F-BBAE342CC5C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B2EFD8-6303-41FE-8FDE-B374B6744939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B2EFD8-6303-41FE-8FDE-B374B6744939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B2EFD8-6303-41FE-8FDE-B374B6744939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B2EFD8-6303-41FE-8FDE-B374B6744939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C4FB07-0AE2-4AFE-A8A9-A462865A5BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C4FB07-0AE2-4AFE-A8A9-A462865A5BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C4FB07-0AE2-4AFE-A8A9-A462865A5BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C4FB07-0AE2-4AFE-A8A9-A462865A5BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B277B96C-5C3B-46C3-91AA-E2C0C1527641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B277B96C-5C3B-46C3-91AA-E2C0C1527641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B277B96C-5C3B-46C3-91AA-E2C0C1527641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B277B96C-5C3B-46C3-91AA-E2C0C1527641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE786718-39D7-40F7-AA5A-141C23B4CA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE786718-39D7-40F7-AA5A-141C23B4CA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE786718-39D7-40F7-AA5A-141C23B4CA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE786718-39D7-40F7-AA5A-141C23B4CA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C040922-43DE-49CD-8F66-86DE35249636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C040922-43DE-49CD-8F66-86DE35249636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C040922-43DE-49CD-8F66-86DE35249636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C040922-43DE-49CD-8F66-86DE35249636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D91A828-B9EE-4ADA-913F-BBAE342CC5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D91A828-B9EE-4ADA-913F-BBAE342CC5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D91A828-B9EE-4ADA-913F-BBAE342CC5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D91A828-B9EE-4ADA-913F-BBAE342CC5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD3BE0A-D2A7-4C91-9942-16BECDEBDB66}
+	EndGlobalSection
+EndGlobal
